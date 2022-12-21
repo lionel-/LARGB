@@ -11,7 +11,7 @@
 #'
 #' @import  "imager"
 #'
-#' @import  "dplyr"
+#' @rawNamespace import(dplyr, except = where)
 #'
 #' @export
 #'
